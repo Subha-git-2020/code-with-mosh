@@ -4,3 +4,4 @@ Adding a new line here
 adding the forth line
 This is 5th line
 this line denotes the release of the v1.1 software.
+this line denotes the release of the v1.2 software.
